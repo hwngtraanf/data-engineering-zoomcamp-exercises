@@ -1,7 +1,7 @@
 *.parquet
 *.env
 *.json
-
+*.parquet*
 
 
 # Local .terraform directories
